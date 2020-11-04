@@ -1,3 +1,7 @@
+<p>
+<a href="https://github.com/flutter/flutter/wiki/Upgrading-pre-1.12-Android-projects" target="_blank">Migration</a>
+</p>>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/SaNhE76x9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
 </p>
